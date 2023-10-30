@@ -5,4 +5,4 @@ class Authpage(models.Model):
    pass
 
 def __str__(self):
-        return self.email
+   return self.email

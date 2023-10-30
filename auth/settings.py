@@ -140,3 +140,12 @@ EMAIL_HOST= 'smtp.gmail.com'
 EMAIL_HOST_USER= 'myappproject54@gmail.com'
 EMAIL_HOST_PASSWORD= 'pythonapp.project'
 EMAIL_PORT= 587
+
+REST_FRAMEWORK = {
+    'DEFAULT_RENDERER_CLASSES': [
+        'rest_framework.renderers.JSONRenderer',
+    ],
+    'DEFAULT_PARSER_CLASSES': [
+        'rest_framework.parsers.JSONParser',
+    ]
+}
