@@ -1,4 +1,6 @@
 # microsoft_outlook Auth System
+Microsoft Outlook OAuth system that enables users to both login and sign up while ensuring
+the continuous management of user sessions and authentication tokens.
 # webpage look
 # screen sort -
 ![Screenshot (540)](https://github.com/sachiweb/microsoft_outlook/assets/102918669/6ab72e34-31c2-4895-9376-2bd86e042785)
