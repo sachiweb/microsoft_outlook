@@ -1,4 +1,4 @@
-# microsoft_outlook Auth System
+# Luncheasy assignment
 I created the website by Django,Html,Css,DRF,RestApi and mysql for database.
 This Microsoft Outlook OAuth system that enables users to both login and sign up while ensuring
 the continuous management of user sessions and authentication tokens.
